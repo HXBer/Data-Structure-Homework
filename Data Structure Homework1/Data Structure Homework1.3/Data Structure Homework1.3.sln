@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Data Structure Homework1.3", "Data Structure Homework1.3.vcxproj", "{73ED485F-88D3-4B87-9C20-64D38D31573A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73ED485F-88D3-4B87-9C20-64D38D31573A}.Debug|x64.ActiveCfg = Debug|x64
+		{73ED485F-88D3-4B87-9C20-64D38D31573A}.Debug|x64.Build.0 = Debug|x64
+		{73ED485F-88D3-4B87-9C20-64D38D31573A}.Debug|x86.ActiveCfg = Debug|Win32
+		{73ED485F-88D3-4B87-9C20-64D38D31573A}.Debug|x86.Build.0 = Debug|Win32
+		{73ED485F-88D3-4B87-9C20-64D38D31573A}.Release|x64.ActiveCfg = Release|x64
+		{73ED485F-88D3-4B87-9C20-64D38D31573A}.Release|x64.Build.0 = Release|x64
+		{73ED485F-88D3-4B87-9C20-64D38D31573A}.Release|x86.ActiveCfg = Release|Win32
+		{73ED485F-88D3-4B87-9C20-64D38D31573A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C9BA4ED-DD2F-4BB6-A1EB-62A1D33EECBC}
+	EndGlobalSection
+EndGlobal

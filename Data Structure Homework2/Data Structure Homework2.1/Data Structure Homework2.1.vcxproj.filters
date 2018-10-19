@@ -26,7 +26,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="数据结构2.2.cpp">
+    <ClCompile Include="Data Structure Homework2.1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
